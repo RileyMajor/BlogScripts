@@ -3,7 +3,7 @@ N'
 <tbody>
 
 <tr>
-<td><a href="https://sqlfredo.wordpress.com/about/">Thomas Hütter</a></td>
+<td><a href="https://twitter.com/derfredo">Thomas Hütter</a></td>
 <td><a href="https://sqlfredo.wordpress.com/2018/05/03/developer-speaker-blogger-how-did-all-of-this-happen/">Developer, speaker, blogger – how did all of this happen?</a></td>
 <td>History</td>
 <td>Comment</td>
@@ -232,6 +232,14 @@ N'
 <td>Advice</td>
 <td><a href="https://twitter.com/sqldbawithbeard/status/993935474917068800">Tweet</a></td>
 <td>2018-05-08T14:27:00-05:00</td>
+</tr>
+
+<tr>
+<td><a href="https://twitter.com/andyleonard">Andy Leonard</a></td>
+<td><a href="https://andyleonard.blog/2018/05/t-sql-tuesday-102-giving-back/">T-SQL Tuesday 102: Giving Back</a></td>
+<td>History</td>
+<td>Comment</td>
+<td>2018-05-09T04:17:00-05:00</td>
 </tr>
 
 </tbody>
